@@ -33,7 +33,7 @@ make webpack
 
 - Open Google Chrome and go to `chrome://extensions` in the address bar.
 - Enable the "Developer mode" toggle at the top-right corner.
-- Click on "Load unpacked" and select the `dist` directory of the project.
+- Click on "Load unpacked" and select the root directory of the project.
 
 6. The Chrome extension is now loaded and ready to use!
 
