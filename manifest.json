@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+
+  "action":{},
+
+  "name": "chrome_ext_js_webpack",
+  "description": "Template for creating chrome extensions using js and webpack",
+
+  "permissions": ["tabs", "scripting", "activeTab"],
+
+  "background": {
+    "service_worker": "dist/background-bundle.js"
+  }
+}

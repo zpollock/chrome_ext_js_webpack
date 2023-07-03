@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "eslint": "^8.40.0",
+    "webpack": "^5.82.0",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.2"
+  }
+}
